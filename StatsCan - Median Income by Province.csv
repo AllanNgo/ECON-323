@@ -1,0 +1,13 @@
+﻿"REF_DATE","GEO","DGUID","Age group","Sex","Income source","Statistics","UOM","UOM_ID","SCALAR_FACTOR","SCALAR_ID","VECTOR","COORDINATE","VALUE","STATUS","SYMBOL","TERMINATED","DECIMALS"
+"2018","Newfoundland and Labrador","2016A000210","16 years and over","Both sexes","Total income","Median income (excluding zeros)","2018 constant dollars","400","units","0","v107664458","3.1.1.1.5","33800","A","","","0"
+"2018","Prince Edward Island","2016A000211","16 years and over","Both sexes","Total income","Median income (excluding zeros)","2018 constant dollars","400","units","0","v107666258","4.1.1.1.5","34500","A","","","0"
+"2018","Nova Scotia","2016A000212","16 years and over","Both sexes","Total income","Median income (excluding zeros)","2018 constant dollars","400","units","0","v107668058","5.1.1.1.5","33800","A","","","0"
+"2018","New Brunswick","2016A000213","16 years and over","Both sexes","Total income","Median income (excluding zeros)","2018 constant dollars","400","units","0","v107669858","6.1.1.1.5","34300","A","","","0"
+"2018","Quebec","2016A000224","16 years and over","Both sexes","Total income","Median income (excluding zeros)","2018 constant dollars","400","units","0","v107671658","7.1.1.1.5","34700","A","","","0"
+"2018","Ontario","2016A000235","16 years and over","Both sexes","Total income","Median income (excluding zeros)","2018 constant dollars","400","units","0","v107673458","8.1.1.1.5","36600","A","","","0"
+"2018","Manitoba","2016A000246","16 years and over","Both sexes","Total income","Median income (excluding zeros)","2018 constant dollars","400","units","0","v107677058","10.1.1.1.5","36100","A","","","0"
+"2018","Saskatchewan","2016A000247","16 years and over","Both sexes","Total income","Median income (excluding zeros)","2018 constant dollars","400","units","0","v107678858","11.1.1.1.5","38200","A","","","0"
+"2018","Alberta","2016A000248","16 years and over","Both sexes","Total income","Median income (excluding zeros)","2018 constant dollars","400","units","0","v107680658","12.1.1.1.5","40800","A","","","0"
+"2018","British Columbia","2016A000259","16 years and over","Both sexes","Total income","Median income (excluding zeros)","2018 constant dollars","400","units","0","v107682458","13.1.1.1.5","36700","A","","","0"
+
+
